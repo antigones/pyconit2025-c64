@@ -172,3 +172,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+build
+.vscode/c_cpp_properties.json
+.vscode/settings.json
+
